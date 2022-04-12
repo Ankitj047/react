@@ -1,0 +1,26 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "first_name": "kajal",
+        "last_name": "parchande",
+        "email": "kajal@abc.com"
+      },
+      {
+        "id": 2,
+        "first_name": "kajal",
+        "last_name": "Doe",
+        "email": "janedoe@abc.com",
+        "gender": "Female",
+        "status": "New"
+      },
+      {
+        "id": 3,
+        "first_name": "Alice",
+        "last_name": "Doe",
+        "email": "alicedoe@abc.com",
+        "gender": "Female",
+        "status": "Leaving"
+      }
+    ]
+}
